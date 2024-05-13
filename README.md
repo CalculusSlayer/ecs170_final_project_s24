@@ -1,1 +1,1 @@
-# ecs170_final_project_s24
+# ECS170_Final_Project_S24
